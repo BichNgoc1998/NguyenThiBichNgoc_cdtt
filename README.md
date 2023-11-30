@@ -9,3 +9,6 @@
 ## KẾ HOẠCH THỰC HIỆN
 ### Tuần 1: Ngày bắt đầu 23/11/2023, ngày kết thúc 30/11/2023
 - Thiết kế CSDL
+### Tuần 2: Ngày bắt đầu 30/11/2023, ngày kết thúc 07/12/2023
+- Đăng nhập hệ thống, quên mật khẩu
+- Cấu hình website
